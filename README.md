@@ -1,2 +1,2 @@
 # test
-teste para aprendizado do git/github
+lista de int e lab de programação
